@@ -24,8 +24,8 @@
 * 💻 Backend Developer Intern candidate
 * 📚 Basic knowledge of web development, databases, and programming
 * 🔧 Familiar with building RESTful APIs using Node.js
-* Bachelor of Multimedia Technology *(Expected 2027)*
-* Student at **Posts and Telecommunications Institute of Technology (PTIT)**
+* 🧑‍🎓 Bachelor of Multimedia Technology *(Expected 2027)*
+* 🏫 Student at **[Posts and Telecommunications Institute of Technology (PTIT)]([https://ptit.edu.vn/](https://ptithcm.edu.vn/))**
 
 <br>
 
