@@ -103,7 +103,7 @@
   <summary><h3>🔥 Streak Stats</h3></summary>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hnihTyoB&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=hnihTyoB&theme=blue-green&hide_border=true"/>
 </p>
 
 </details>
@@ -112,9 +112,9 @@
   <summary><h3>📊 Profile Stats</h3></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hnihTyoB&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hnihTyoB&theme=blue-green&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hnihTyoB&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hnihTyoB&layout=compact&theme=blue-green&hide_border=true"/>
 </p>
 
 </details>
