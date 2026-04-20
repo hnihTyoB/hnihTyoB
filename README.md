@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Nguyen Chi Thinh
+  Hi, I'm Thinh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -13,25 +13,25 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40px"></picture> About me
+## <picture><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f7ba88c3-6090-48bc-919d-39c17944ea04" width="40px"></picture> About me
 
 <picture>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
 </picture>
 
-<br><br>
+<br>
 
-* 💻 Backend Developer Intern candidate
+* 🧑‍💻 Backend Developer Intern candidate
 * 📚 Basic knowledge of web development, databases, and programming
 * 🔧 Familiar with building RESTful APIs using Node.js
 * 🧑‍🎓 Bachelor of Multimedia Technology *(Expected 2027)*
-* 🏫 Student at **[Posts and Telecommunications Institute of Technology (PTIT)](https://ptithcm.edu.vn/)**
+* 🏫 Student at **[Posts and Telecommunications Institute of Technology (PTIT HCM)](https://ptithcm.edu.vn/)**
 
 <br>
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40px"></picture> Connect with me
+## <picture><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="40px"></picture> Connect with me
 
 <p align="center">  
 <a href="https://facebook.com/cl1rtl1jzl1">
@@ -53,9 +53,9 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/2721/2721293.png" width="40px"></picture> Tech Stack
+## <picture><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px"></picture> Tech Stack
 
-### 🧑‍💻 Languages
+### 💻 Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -97,7 +97,7 @@
 
 ---
 
-## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40px"></picture> Github Stats
+## <picture><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="40px"></picture> Github Stats
 
 <details open>
   <summary><h3>🔥 Streak Stats</h3></summary>
@@ -109,7 +109,7 @@
 </details>
 
 <details open>
-  <summary><h3>💻 Profile Stats</h3></summary>
+  <summary><h3>📊 Profile Stats</h3></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hnihTyoB&theme=tokyonight&hide_border=true"/>
