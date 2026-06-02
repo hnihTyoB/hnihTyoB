@@ -68,14 +68,17 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/Session_Authentication-4CAF50?style=for-the-badge"/>
 </p>
 
 ### 🗄 Database
 
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database_Design-FF9800?style=for-the-badge"/>
 </p>
 
 ### 🛠 Tools & Platforms
@@ -83,16 +86,18 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🧠 Knowledge
+### 🧠 Knowledge & Architecture
 
 <p align="center">
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database_Design-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Security-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Error_Handling-795548?style=for-the-badge"/>
 </p>
 
 ---
