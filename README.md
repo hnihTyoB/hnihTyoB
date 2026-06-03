@@ -108,7 +108,7 @@
   <summary><h3>🔥 Streak Stats</h3></summary>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hnihTyoB&theme=blue-green&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=hnihTyoB&amp;theme=blue-green&amp;hide_border=true"/>
 </p>
 
 </details>
